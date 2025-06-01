@@ -1,1 +1,1 @@
-# CSC480---Projector-02
+# CSC480-Project-02
